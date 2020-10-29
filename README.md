@@ -16,7 +16,7 @@ You are going to create a Lambda Newspaper. Your job is going to be to create th
 
 In meeting the minimum viable product (MVP) specifications listed below, your project should look like the animation linked below. NOTE that the animation includes one of the stretch goals (the filtering of the articles by clicking on a topic).
 
-[Lambda Times](https://tk-assets.lambdaschool.com/83869a99-62dc-4896-be79-f5ad1885631b_Sprint-Challenge.gif)
+[Lambda Times](https://tk-assets.lambdaschool.com/83869a99npm -62dc-4896-be79-f5ad1885631b_Sprint-Challenge.gif)
 
 ### Commits
 
