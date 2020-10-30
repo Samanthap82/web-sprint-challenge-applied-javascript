@@ -20,6 +20,9 @@ axios.get('https://lambda-times-api.herokuapp.com/topics')
         div.classList.add('tab');
         div.textContent = element;
         tabsContainer.appendChild(div);
+       
+       
+       
         /*stretch*/
         div.addEventListener('click', obj=>{
             axios.get('https://lambda-times-api.herokuapp.com/articles')
